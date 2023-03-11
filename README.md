@@ -42,7 +42,7 @@ Did I learn something? Was it all for naught? ... Or was it ... nought? Perhaps 
 
 I'm sorry, too close to home? Well mi casa su casa. And speaking of casa:
 
-No, I'm done. Here, have icons:
+No, I'm done. Here, have badges:
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
