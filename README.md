@@ -90,4 +90,5 @@ Srsly say hello! 👋
 
 [![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/voyagenesis)
 
-[![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bowheart&theme=dracula)](github.com/bowheart)
+![most used languate](https://github-readme-stats.vercel.app/api/top-langs/?username=bowheart&theme=dracula)
+![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bowheart&theme=dracula)
