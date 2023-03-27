@@ -16,7 +16,7 @@ I was pretty good at basketball. I could score on anyone with either hand. When 
 
 What Now?? You got tea in your eye? Just deal with i--. Oh. Um sorry, I don't know what TMI is. But speaking of eyes:
 
-20/20 vision enabled me to see straight past all the Greek and astronomy lessons at BYU. Straight to what I really wanted. And man was she pretty.
+20/20 vision enabled me to see straight past all the Greek and astronomy classes at BYU. Straight to what I really wanted. And man was she pretty.
 
 I'M KIDDING!! Geez. I mean she was. But I was actually about to mention my first job:
 
@@ -90,5 +90,5 @@ Srsly say hello! 👋
 
 [![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/voyagenesis)
 
-![most used languate](https://github-readme-stats.vercel.app/api/top-langs/?username=bowheart&theme=dracula)
 ![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bowheart&theme=dracula)
+![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=bowheart&layout=compact&theme=dracula)
