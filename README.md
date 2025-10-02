@@ -88,7 +88,6 @@ Srsly say hello! 👋
 
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3984780/bowheart)
 
-[![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/voyagenesis)
+[![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/josh-claunch)
 
-![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bowheart&theme=dracula)
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=bowheart&layout=compact&theme=dracula)
